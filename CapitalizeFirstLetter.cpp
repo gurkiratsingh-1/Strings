@@ -1,6 +1,6 @@
 //Author: D Vishal Reddy 
 //Github: dvishalreddy
-//The following program capitalizes teh first letter of the Inputted string.
+//The following program capitalizes the first letter of the Inputted string.
 #include <iostream>
 #include <string>
  
